@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Sprawozdanie_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sprawozdanie_1.cpp
+c:\users\olgierd\desktop\sprawozdanie_1\sprawozdanie_1\sprawozdanie_1.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\olgierd\desktop\sprawozdanie_1\sprawozdanie_1\sprawozdanie_1.cpp(53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Sprawozdanie_1.vcxproj -> C:\Users\Olgierd\Desktop\Sprawozdanie_1\Debug\Zadanie_3i4.exe
+  Sprawozdanie_1.vcxproj -> C:\Users\Olgierd\Desktop\Sprawozdanie_1\Debug\Zadanie_3i4.pdb (Full PDB)

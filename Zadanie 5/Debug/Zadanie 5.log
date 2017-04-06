@@ -1,0 +1,12 @@
+﻿  Zadanie 5.cpp
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(88): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(92): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\olgierd\desktop\sprawozdanie_1\zadanie 5\zadanie 5.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  Zadanie 5.vcxproj -> C:\Users\Olgierd\Desktop\Sprawozdanie_1\Debug\Zadanie 5.exe
+  Zadanie 5.vcxproj -> C:\Users\Olgierd\Desktop\Sprawozdanie_1\Debug\Zadanie 5.pdb (Full PDB)
